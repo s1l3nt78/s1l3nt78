@@ -20,7 +20,7 @@
     - Sifter
     - TigerShark
     - gCat (Version 3 | ReDevelopment ) <br />
-    &emsp;&emsp; <em>Original created by <strong>byt3bl33d3r</strong></em>)
+    &emsp;&emsp; <em>Original created by <strong>byt3bl33d3r</strong></em>
     - MCheck
 
 - 📫 How to reach me:
