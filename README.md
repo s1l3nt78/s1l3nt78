@@ -3,13 +3,13 @@
 <h2 align="Middle"><strong>## 👋 Welcome ##</strong></h>
 
 ## I'm s1l3nt78,
-  I have a few other monacures I go by in cyberspace but thats not super important 😄
+ I have a few other monacures I go by in cyberspace but thats not super important 😄
   <br />
-  I'm a pentester, software developer, exploit coder, bug bounty hunter & occasional blackhat (to those who deserve)
+ I'm a pentester, software developer, exploit developer, bug bounty hunter & occasional blackhat (when the moment calls)
   
 ## 7he Dead Bunny Collective
-  My little group of some exceptional people that have taught me plenty and that I have had to 
-  honor to teach a few things to myself. 
+ + My little group of some exceptional people that have taught me plenty and that I have had to 
+   honor to teach a few things to myself. 
 
 <br /><br />
 
