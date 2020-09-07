@@ -1,8 +1,10 @@
 <p align="middle"><img align="middle" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/.vs/log.PNG"></p>
 
-<h2 align="Middle"><strong>## 👋 Welcome ##</strong></h>
+<h2 align="Middle"><em><strong>👋 Well, Hello there.</strong></h>
+<h2 align="Middle">Looks like you've stumbled upon my Git Page 🐱‍🚀</em></h>
 
-## I'm s1l3nt78,
+
+## I'm s1l3nt78
  I have a few other monacures I go by in cyberspace but thats not super important 😄
   <br />
  I'm a pentester, software developer, exploit developer, bug bounty hunter & occasional blackhat (when the moment calls)
