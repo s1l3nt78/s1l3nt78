@@ -10,8 +10,8 @@
  I'm a pentester, software developer, exploit developer, bug bounty hunter & occasional blackhat (when the moment calls)
   
 ## 7he Dead Bunny Collective
- + My little group of some exceptional people that have taught me plenty and that I have had to 
-   honor to teach a few things to myself. 
+ + My little group of some exceptional people that have taught me plenty <br />
+ and that I have had to honor to teach a few things to myself. 
 
 <br /><br />
 
