@@ -21,9 +21,9 @@
 - 🔭<strong><em> I’m currently working on: </strong></em> 
     - Sifter
     - TigerShark
-    - gCat (Version 3 | ReDevelopment ) <br />
-    &emsp;&emsp; <em>Original created by <strong>byt3bl33d3r</strong></em>
     - MCheck
+    - gCat _ Version 3 ( Redevelopment ) <br />
+    &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em>
 
 - 📫 How to reach me:
     s1l3n7h0s7@gmail.com
