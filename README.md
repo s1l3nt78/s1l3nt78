@@ -23,7 +23,7 @@
     - Sifter
     - TigerShark
     - MCheck
-    - gCat _ Version 3 ( Redevelopment ) <br />
+    - gCat - Version 3 ( Redevelopment ) <br />
     &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em>
 
 - 📫 How to reach me:
