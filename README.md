@@ -5,7 +5,8 @@
 
 
 ## You may call me, s1l3nt78 👁
- I have a few other monacures I go by in cyberspace 🐇 but thats not super important 😄
+
+ I have a few other monacures I go by in cyberspace 🐇 but thats not super important
   <br />
  I'm a pentester, software developer, exploit developer, bug bounty hunter & occasional blackhat (when the moment calls)
   
