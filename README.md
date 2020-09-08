@@ -4,8 +4,8 @@
 <h2 align="Middle">Looks like you've stumbled upon my Git Page 🐱‍🚀</em></h>
 
 
-## I'm s1l3nt78
- I have a few other monacures I go by in cyberspace but thats not super important 😄
+## You may call me, s1l3nt78 👁
+ I have a few other monacures I go by in cyberspace 🐇 but thats not super important 😄
   <br />
  I'm a pentester, software developer, exploit developer, bug bounty hunter & occasional blackhat (when the moment calls)
   
