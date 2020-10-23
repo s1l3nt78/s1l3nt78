@@ -20,7 +20,8 @@
 
 
 - 🔭<strong><em> I’m currently working on: </strong></em> 
-    - Sifter
+    - Sifter <br />
+    &emsp; -- Sifter Plugins
     - TigerShark
     - MCheck
     - gCat - Version 3 ( Redevelopment ) <br />
