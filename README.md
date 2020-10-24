@@ -1,7 +1,8 @@
 <p align="middle"><img align="middle" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/.vs/log.png"></p>
 
 <h2 align="Middle"><em><strong>👋 Well, Hello there.</strong></h>
-<h2 align="Middle">Looks like you've stumbled upon my Git Page</em> 🐱‍👓</h>
+<h align="Middle">Looks like you've stumbled upon my Repos</em> 🐱‍👓</h><br />
+<h align="Middle">Lucky you 😊</h>
 
 
 ## You may call me, s1l3nt78 👁
