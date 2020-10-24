@@ -20,12 +20,13 @@
 
 
 - 🔭<strong><em> I’m currently working on: </strong></em> 
-    - Sifter <br />
-    &emsp; -- Sifter Plugins
-    - TigerShark
-    - MCheck
-    - gCat - Version 3 ( Redevelopment ) <br />
-    &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em>
+    - <a href="https://github.com/s1l3nt78/sifter">Sifter</a> <br />
+    &emsp; -- <a href="https://github.com/Sifter-Ex">Sifter Plugins</a>
+    - <a href="https://github.com/s1l3nt78/TigerShark">TigerShark</a>
+    - <a href="https://github.com/s1l3nt78/MkCheck">MCheck</a>
+    - <a href="https://github.com/s1l3nt78/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
+    &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em><br />
+    - <a href="https://github.com/s1l3nt78/SimplyVE">SimplyVE</a>
 
 - 📫 How to reach me:
     s1l3n7h0s7@gmail.com
