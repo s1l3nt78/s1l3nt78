@@ -21,14 +21,21 @@
 
 
 - 🔭<strong><em> I’m currently working on: </strong></em> 
-    - <a href="https://github.com/s1l3nt78/sifter">Sifter</a> <br />
-    &emsp; -- <a href="https://github.com/Sifter-Ex">Sifter.Ex | Extentionary Plugins</a>
-    - <a href="https://github.com/s1l3nt78/TigerShark">TigerShark</a>
-    - <a href="https://github.com/s1l3nt78/MkCheck">MCheck</a>
-    - <a href="https://github.com/s1l3nt78/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
-    &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em><br />
-    - <a href="https://github.com/s1l3nt78/SimplyVE">SimplyVE</a><br />
-    - <a href="https://github.com/j-dogcoder/Blackeye-2.0">Blackeye-2.0</a>
+- <a href="https://github.com/s1l3nt78/sifter">Sifter</a>
+    &emsp; <details><summary><a href="https://github.com/Sifter-Ex">Sifter.Ex | Extentionary Plugins</a></summary>
+    &emsp;    ├── <a href="https://github.com/Sifter-Ex/PlugPack">PlugPack</a><br />
+    &emsp;    ├── <a href="https://github.com/Sifter-Ex/gPlug">gPlug</a><br />
+    &emsp;    ├── <a href="https://github.com/Sifter-Ex/cPlug">cPlug</a><br />
+    &emsp;    ├── <a href="https://github.com/Sifter-Ex/mPlug">mPlug</a><br />
+    &emsp;    ├── <a href="https://github.com/Sifter-Ex/fPlug">fPlug</a><br />
+    &emsp;    └── ...<br />
+    </details>
+- <a href="https://github.com/s1l3nt78/TigerShark">TigerShark</a>
+- <a href="https://github.com/s1l3nt78/MkCheck">MCheck</a>
+- <a href="https://github.com/s1l3nt78/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
+&emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em><br />
+- <a href="https://github.com/s1l3nt78/SimplyVE">SimplyVE</a><br />
+- <a href="https://github.com/j-dogcoder/Blackeye-2.0">Blackeye-2.0</a>
 
 - 📫 How to reach me:
     s1l3n7h0s7@gmail.com
