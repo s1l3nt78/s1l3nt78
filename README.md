@@ -32,10 +32,10 @@
     </details>
 - <a href="https://github.com/s1l3nt78/TigerShark">TigerShark</a>
 - <a href="https://github.com/s1l3nt78/MkCheck">MCheck</a>
-- <a href="https://github.com/s1l3nt78/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
+- <a href="https://github.com/7dbc/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
 &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em><br />
-- <a href="https://github.com/s1l3nt78/SimplyVE">SimplyVE</a><br />
-- <a href="https://github.com/j-dogcoder/Blackeye-2.0">Blackeye-2.0</a>
+- <a href="https://github.com/7dbc/SimplyVE">SimplyVE</a><br />
+- <a href="https://github.com/Blackeye2/blackeye">Blackeye-2.0</a>
 
 - 📫 How to reach me:
     s1l3n7h0s7@gmail.com
