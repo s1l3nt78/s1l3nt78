@@ -35,6 +35,7 @@
 - <a href="https://github.com/7dbc/gCat">gCat - Version 3 ( Redevelopment )</a> <br />
 &emsp;&emsp; <em>Original Author: <strong>byt3bl33d3r</strong></em><br />
 - <a href="https://github.com/7dbc/SimplyVE">SimplyVE</a><br />
+- <a href="https://github.com/7dbc/SFXBat">SFXBat</a><br />
 - <a href="https://github.com/Blackeye2/blackeye">Blackeye-2.0</a>
 
 - 📫 How to reach me:
