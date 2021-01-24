@@ -38,6 +38,9 @@
 - <a href="https://github.com/7dbc/SFXBat">SFXBat</a><br />
 - <a href="https://github.com/Blackeye2/blackeye">Blackeye-2.0</a>
 
+# YouTube
+- https://www.youtube.com/channel/UCYqT9WzY4vdE7ytu8aATVXQ
+
 - 📫 How to reach me:
     s1l3n7h0s7@gmail.com
     
