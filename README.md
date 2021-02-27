@@ -2,7 +2,8 @@
 
 <h2 align="Middle"><em><strong>👋 Well, Hello there.</strong></h><br />
 <h align="Middle">Looks like you've stumbled upon my Repos</em> 🐱‍👓</h><br />
-<h align="Middle">Lucky you 😊</h>
+<h align="Middle">Lucky you 😊</h><br />
+<h align="Middle">Though, its only the tip of the Iceberg</h>
 
 
 ## You may call me, s1l3nt78 👁
