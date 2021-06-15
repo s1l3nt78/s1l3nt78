@@ -43,7 +43,6 @@
 - https://www.youtube.com/channel/UCYqT9WzY4vdE7ytu8aATVXQ
 
 - 📫 How to reach me:
-    s1l3n7h0s7@gmail.com
-    
+- Discord: whiterabb17#1046    
     
                            <<_____________ N2hlRGU0ZEJ1bm55Q29sbGVjdGl2Mw== _____________>>
